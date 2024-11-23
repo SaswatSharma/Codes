@@ -1,0 +1,210 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "arrays3194",
+            "request": "launch",
+            "mainClass": "arrays3194",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "quickself",
+            "request": "launch",
+            "mainClass": "quickself",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "quickgpt",
+            "request": "launch",
+            "mainClass": "quickgpt",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "quickgpt",
+            "request": "launch",
+            "mainClass": "nonleet.quickgpt",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "binaryy2d",
+            "request": "launch",
+            "mainClass": "binaryy2d",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "binary2d",
+            "request": "launch",
+            "mainClass": "binary2d",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "binary2d",
+            "request": "launch",
+            "mainClass": "nonleet.binary2d",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "leetcode_33duplicate",
+            "request": "launch",
+            "mainClass": "leetcode_33duplicate",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "leetcode_33",
+            "request": "launch",
+            "mainClass": "leetcode_33",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "leetcode_410",
+            "request": "launch",
+            "mainClass": "leetcode_410",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "Ceiling",
+            "request": "launch",
+            "mainClass": "DSA.Arrays.Ceiling",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "typecasting",
+            "request": "launch",
+            "mainClass": "DSA.Random.typecasting",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "leetcode_1095",
+            "request": "launch",
+            "mainClass": "leetcode_1095",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "leetcode1095",
+            "request": "launch",
+            "mainClass": "leetcode1095",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "leet852",
+            "request": "launch",
+            "mainClass": "leet852",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "Searchinfinitearray",
+            "request": "launch",
+            "mainClass": "Searchinfinitearray",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "Leet34",
+            "request": "launch",
+            "mainClass": "Leet34",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "leet34",
+            "request": "launch",
+            "mainClass": "leet34",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "leet34",
+            "request": "launch",
+            "mainClass": "Arrays.leet34",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Arrays.Solution",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "Ceiling",
+            "request": "launch",
+            "mainClass": "Ceiling",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "loopdebug",
+            "request": "launch",
+            "mainClass": "loopdebug",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BFmatzero",
+            "request": "launch",
+            "mainClass": "BFmatzero",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "Betterapro",
+            "request": "launch",
+            "mainClass": "Betterapro",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "Setmatzero",
+            "request": "launch",
+            "mainClass": "Setmatzero",
+            "projectName": "KunalKushawadsa_fea13dd"
+        },
+        {
+            "type": "java",
+            "name": "inplace",
+            "request": "launch",
+            "mainClass": "inplace",
+            "projectName": "KunalKushawadsa_fea13dd"
+        }
+    ]
+}
